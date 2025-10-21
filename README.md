@@ -88,3 +88,6 @@ The AI is built using the **Minimax algorithm with Alpha–Beta pruning**, which
   - `random` — for introducing controlled variability in AI decision-making  
   - `dataclasses` — for clean and structured data representation
 
+---
+## 🎮 Q-Game Demo
+https://github.com/user-attachments/assets/f217cc4e-6f71-4ce7-b529-0756d3b38c02
